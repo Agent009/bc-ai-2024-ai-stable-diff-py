@@ -1,7 +1,10 @@
 # Generate Images with Stable Diffusion
 
+* Support for local generation via **Stable Diffusion WebUI**
+
 ## Instructions / README
 * [Lesson-22 / Exercises / 00-Generate-Images-Diffusion](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/blob/main/Lesson-22/exercises/00-Generate-Images-Diffusion.md)
+* [Lesson-23 / Exercises / 06-Generate-Image-API](https://github.com/Encode-Club-AI-Bootcamp/Generative-AI-Applications/blob/main/Lesson-23/exercises/06-Generate-Image-API.md)
 
 ## Setup
 
